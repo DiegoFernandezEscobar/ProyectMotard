@@ -1,0 +1,45 @@
+
+.contenedor-socaloUp{
+    display: flex;
+    position:fixed;
+    margin: 0;
+    border-bottom:1px solid transparent;
+    z-index: 10;
+    background-color: rgba(243, 170, 69, 0.701);
+    width: 100%;
+    margin-top: 0;
+}
+
+.ColImgLogo{
+    margin-left: -13%;
+    margin-top: -4%;
+    margin-right: -10%;
+    margin-bottom: -5%;
+    max-width: 60%;
+}
+.colPaddingCart{
+    display: flex;
+    margin-top: 3%;
+}
+.brand-logo{    
+    max-width: 60%;
+}
+.filabtnnav{
+    display: flex;
+    flex-wrap: nowrap;
+    padding-top: 6%;
+}
+.colPadding{
+    max-width: 40%;
+    margin: 1%;
+}
+.loginabtnnav{
+ align-items: flex-end;
+ display: flex;
+}
+.colPadding2{
+    margin: 1%;
+    max-width: 40%;
+    padding-top: 6%;
+    padding-left: 80%;
+}

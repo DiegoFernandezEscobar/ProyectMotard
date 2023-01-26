@@ -1,0 +1,16 @@
+.d-block{
+    width: fit-content;
+    z-index: 0;
+   
+}
+.tituloCarrucel{
+    background-color: rgba(81, 81, 81, 0.308);
+    margin-bottom:5%;
+    border-width:4px;
+    border-style:hidden
+    
+    
+}
+.txtCOlor{
+    color: rgb(253, 253, 253);
+}
